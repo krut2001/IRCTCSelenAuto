@@ -1,2 +1,2 @@
-# IRCTCSelenAtuo
+# IRCTCSelenAuto
 Automatic Ticket Booking System
